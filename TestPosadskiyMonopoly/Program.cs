@@ -168,6 +168,7 @@ namespace TestPosadskiyMonopoly
             {
                 GroupsWithSortWeight.Add(date, Groups[date].OrderBy(x => x.GetWe()).ToList());
             }
+            Console.WriteLine("Результат первой сортировки:");
             foreach (DateOnly date in GroupsWithSortWeight.Keys)
             {
                 Console.WriteLine(date + ": ");
