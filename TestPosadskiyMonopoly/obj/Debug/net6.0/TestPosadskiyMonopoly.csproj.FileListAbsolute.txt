@@ -1,0 +1,15 @@
+D:\C#\TestPosadskiy\TestPosadskiyMonopoly\TestPosadskiyMonopoly\bin\Debug\net6.0\TestPosadskiyMonopoly.exe
+D:\C#\TestPosadskiy\TestPosadskiyMonopoly\TestPosadskiyMonopoly\bin\Debug\net6.0\TestPosadskiyMonopoly.deps.json
+D:\C#\TestPosadskiy\TestPosadskiyMonopoly\TestPosadskiyMonopoly\bin\Debug\net6.0\TestPosadskiyMonopoly.runtimeconfig.json
+D:\C#\TestPosadskiy\TestPosadskiyMonopoly\TestPosadskiyMonopoly\bin\Debug\net6.0\TestPosadskiyMonopoly.dll
+D:\C#\TestPosadskiy\TestPosadskiyMonopoly\TestPosadskiyMonopoly\bin\Debug\net6.0\TestPosadskiyMonopoly.pdb
+D:\C#\TestPosadskiy\TestPosadskiyMonopoly\TestPosadskiyMonopoly\obj\Debug\net6.0\TestPosadskiyMonopoly.csproj.AssemblyReference.cache
+D:\C#\TestPosadskiy\TestPosadskiyMonopoly\TestPosadskiyMonopoly\obj\Debug\net6.0\TestPosadskiyMonopoly.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TestPosadskiy\TestPosadskiyMonopoly\TestPosadskiyMonopoly\obj\Debug\net6.0\TestPosadskiyMonopoly.AssemblyInfoInputs.cache
+D:\C#\TestPosadskiy\TestPosadskiyMonopoly\TestPosadskiyMonopoly\obj\Debug\net6.0\TestPosadskiyMonopoly.AssemblyInfo.cs
+D:\C#\TestPosadskiy\TestPosadskiyMonopoly\TestPosadskiyMonopoly\obj\Debug\net6.0\TestPosadskiyMonopoly.csproj.CoreCompileInputs.cache
+D:\C#\TestPosadskiy\TestPosadskiyMonopoly\TestPosadskiyMonopoly\obj\Debug\net6.0\TestPosadskiyMonopoly.dll
+D:\C#\TestPosadskiy\TestPosadskiyMonopoly\TestPosadskiyMonopoly\obj\Debug\net6.0\refint\TestPosadskiyMonopoly.dll
+D:\C#\TestPosadskiy\TestPosadskiyMonopoly\TestPosadskiyMonopoly\obj\Debug\net6.0\TestPosadskiyMonopoly.pdb
+D:\C#\TestPosadskiy\TestPosadskiyMonopoly\TestPosadskiyMonopoly\obj\Debug\net6.0\TestPosadskiyMonopoly.genruntimeconfig.cache
+D:\C#\TestPosadskiy\TestPosadskiyMonopoly\TestPosadskiyMonopoly\obj\Debug\net6.0\ref\TestPosadskiyMonopoly.dll
